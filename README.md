@@ -1,8 +1,7 @@
 # 📊 Sales-analysis-With-PowerBi
 
 ## 🧠 Project Overview
-A Sales Analysis project leveraging SQL and Power BI to extract, transform, and visualize sales data for actionable insights. It helps identify key trends, top-performing products, and revenue growth opportunities through interactive dashboards.
-
+This Sales Analysis project built using SQL, SSIS, and Power BI to perform ETL, analyze data, and visualize key insights that reveal trends, top-performing products, and revenue growth opportunities through interactive dashboards.
 ---
 
 ## 🏠 Homepage Dashboard
@@ -56,7 +55,8 @@ A Sales Analysis project leveraging SQL and Power BI to extract, transform, and 
 ---
 
 ## 🛠️ Tools & Technologies Used
-- **SQL Server** — Data Cleaning, Transformation, and Analysis  
+- **SQL Server** — Data Cleaning, Transformation, and Analysis
+- **SSIS (SQL Server Integration Services)** — Data Loading (ETL Process)
 - **Power BI** — Dashboard Design and Data Visualization  
 - **Excel** — Data Preprocessing and Source Management  
 
